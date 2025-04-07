@@ -35,6 +35,10 @@ header h1 span {
 	-webkit-text-fill-color: transparent;
 }
 
+ol {
+	list-style-type: upper-roman;
+}
+
 main {
 	display: flex;
 	justify-content: center;
